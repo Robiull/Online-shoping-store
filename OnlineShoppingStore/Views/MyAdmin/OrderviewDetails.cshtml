@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewBag.Title = "OrderviewDetails";
+    Layout = "~/Views/Shared/_myadminlayout.cshtml";
+}
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <th> Order Details</th>
+
+    </tr>
+
+    @{
+        int count = 1;
+    }
+    @for (int i = 0; i < Model.Rows.Count; i++)
+    {
+
+
+        <tr>  <td> @Model.Rows[i][0]</td></tr>
+
+
+        <tr>  <td> @Model.Rows[i][1]   @Model.Rows[i][2]</td></tr>
+
+
+
+        <tr>  <td> @Model.Rows[i][3]</td></tr>
+
+
+        <tr>  <td> @Model.Rows[i][4]</td></tr>
+
+
+        <tr>  <td> @Model.Rows[i][5]</td></tr>
+
+
+        <tr>  <td> @Model.Rows[i][6]</td></tr>
+
+
+        <tr>  <td> @Model.Rows[i][7]</td></tr>
+
+
+        <tr>  <td> @Model.Rows[i][8]</td></tr>
+
+
+        <tr>  <td> @Model.Rows[i][9]</td></tr>
+
+
+        <tr>  <td> @Model.Rows[i][10]</td></tr>
+
+
+        <tr>  <td> @Model.Rows[i][11]</td></tr>
+
+
+        <tr>  <td> @Model.Rows[i][12]</td></tr>
+
+
+        <tr>  <td> @Model.Rows[i][13]</td></tr>
+
+
+
+
+
+    }
+
+</table>
+
+<a class="btn btn-success" href="/MyAdmin/ConfirmOrder/@(Model.Rows[0][0])"> Confirm Order</a>

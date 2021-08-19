@@ -1,0 +1,53 @@
+﻿@using OnlineShoppingStore.Models
+@{
+    ViewBag.Title = "Addtocartedit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+@if (Session["cart"] == null)
+{
+    <div class="alert alert-danger">
+        <strong>No product added to cart!</strong>
+    </div>
+
+}
+else
+{
+    <h2>  @Session["cartNumber"]</h2>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Quantity</th>
+                <th>Add</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (item item in (List<item>)Session["cart"])
+            {
+                <tr>
+                    <td>>@item.ProductCartTable.Rows[0][2]</td>
+                    <td>@item.Quantity</td>
+                    <td>
+                        @*<a href="@Url.Action("AddToCart", "Home", new { productId = item.ProductCartTable.Rows[0][0] })">*@
+                        <a href="../Home/AddToCartinc?id=@item.ProductCartTable.Rows[0][0]">
+
+                            <i class="fa fa-plus"></i>
+                        </a>
+
+                        <a href="../Home/DecreaseQty?id=@item.ProductCartTable.Rows[0][0]">
+
+                            <i class="fa fa-minus"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+
+  <a href="../Home/OrderDetails" class="btn main-btn"> Order Now  </a>
+
+}

@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Orderview";
+    Layout = "~/Views/Shared/_myadminlayout.cshtml";
+}
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>Sr No</th>
+        <th>Buyer Name </th>
+        <th>Address</th>
+
+        <th>TotalBill</th>
+        <th>Click for Order Details</th>
+
+    </tr>
+
+    @{
+        int count = 1;
+    }
+    @for (int i = 0; i < Model.Rows.Count; i++)
+    {
+
+        <tr>
+            <td>@count</td>
+            <td> @Model.Rows[i][1]</td>
+            <td>@Model.Rows[i][4]</td>
+            <td>@Model.Rows[i][13]</td>
+            @*<td><a href="@Url.Action("Edit","MyAdmin", new { @ProductId =@Model.Rows[i][0]})">Edit</a></td>*@
+            <td><a href="../MyAdmin/OrderviewDetails/@(Model.Rows[i][0])">Details</a></td>
+        </tr>
+        count++;
+    }
+
+</table>

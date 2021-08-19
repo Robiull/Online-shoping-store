@@ -1,0 +1,214 @@
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\csc.exe
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\vbc.exe
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\OnlineShoppingStore.dll.config
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\OnlineShoppingStore.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\OnlineShoppingStore.pdb
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Antlr3.Runtime.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\EntityFramework.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\EntityFramework.SqlServer.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Newtonsoft.Json.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Owin.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Helpers.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Mvc.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Optimization.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Razor.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\WebGrease.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Helpers.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Mvc.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Optimization.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Razor.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Antlr3.Runtime.pdb
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Newtonsoft.Json.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\EntityFramework.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\EntityFramework.SqlServer.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\obj\Debug\OnlineShoppingStore.csprojResolveAssemblyReference.cache
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\obj\Debug\OnlineShoppingStore.dll
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\obj\Debug\OnlineShoppingStore.pdb
+C:\Users\shuvo\Documents\Complete MVC Application\OnlineShoppingStore\OnlineShoppingStore\bin\Content\MyMainLayOut.css
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\csc.exe
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\vbc.exe
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Content\MyMainLayOut.css
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\OnlineShoppingStore.dll.config
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\OnlineShoppingStore.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\OnlineShoppingStore.pdb
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Antlr3.Runtime.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\EntityFramework.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Newtonsoft.Json.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Owin.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Helpers.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Mvc.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Optimization.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Razor.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\WebGrease.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Helpers.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Mvc.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Optimization.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Razor.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Antlr3.Runtime.pdb
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Newtonsoft.Json.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\EntityFramework.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\obj\Debug\OnlineShoppingStore.csprojAssemblyReference.cache
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\obj\Debug\OnlineShoppingStore.csproj.CoreCompileInputs.cache
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\obj\Debug\OnlineShoppingStore.csproj.CopyComplete
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\obj\Debug\OnlineShoppingStore.dll
+C:\Users\Megh\Downloads\Cse3.2\new\sd\tc\OnlineShoppingStore\OnlineShoppingStore\obj\Debug\OnlineShoppingStore.pdb
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\csc.exe
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\System.Collections.Immutable.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\System.Reflection.Metadata.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\vbc.exe
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\VBCSCompiler.exe
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\roslyn\VBCSCompiler.exe.config
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Content\MyMainLayOut.css
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\OnlineShoppingStore.dll.config
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\OnlineShoppingStore.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\OnlineShoppingStore.pdb
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Antlr3.Runtime.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\EntityFramework.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\EntityFramework.SqlServer.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Google.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Web.Infrastructure.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Newtonsoft.Json.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Owin.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Helpers.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Mvc.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Optimization.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Razor.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.Deployment.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.Razor.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\WebGrease.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Helpers.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Mvc.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Optimization.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.Razor.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.Deployment.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\System.Web.WebPages.Razor.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Antlr3.Runtime.pdb
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Newtonsoft.Json.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\EntityFramework.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\EntityFramework.SqlServer.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Google.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\obj\Debug\OnlineShoppingStore.csprojAssemblyReference.cache
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\obj\Debug\OnlineShoppingStore.csproj.CoreCompileInputs.cache
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\obj\Debug\OnlineShoppingStore.csproj.CopyComplete
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\obj\Debug\OnlineShoppingStore.dll
+F:\Downloads\OnlineShoppingStore\OnlineShoppingStore\OnlineShoppingStore\obj\Debug\OnlineShoppingStore.pdb

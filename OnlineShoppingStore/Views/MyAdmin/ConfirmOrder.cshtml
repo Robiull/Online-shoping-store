@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "ConfirmOrder";
+    Layout = "~/Views/Shared/_myadminlayout.cshtml";
+}
+
+<h2>ConfirmOrder</h2>
+<form  action="/MyAdmin/InsertConfirm" method="post">
+    <input class="input--style-3" type="text" placeholder="Delivery Date" name="date">
+
+    <div class="input-group">
+        <div class="rs-select2 js-select-simple select--no-search">
+            <select name="OrderStatus">
+                <option disabled="disabled" selected="selected">Status</option>
+                <option>Confirm</option>
+                <option>Pending</option>
+                <option>Cancel</option>
+            </select>
+            <div class="select-dropdown"></div>
+        </div>
+    </div>
+    <button class="btn btn--pill btn--green" type="submit">Submit</button>
+</form>

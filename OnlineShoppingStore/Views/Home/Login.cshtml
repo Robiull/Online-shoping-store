@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_loginlayout.cshtml";
+}
+<div class="page-wrapper bg-gra-01 p-t-180 p-b-100 font-poppins">
+    <div class="wrapper wrapper--w780">
+        <div class="card card-3">
+            <div class="card-heading"></div>
+            <div class="card-body">
+             
+                <form action="../Home/log" method="get">
+
+
+                    <div class="input-group">
+                        <input class="input--style-3" type="text" placeholder="UserName" name="username">
+                    </div>
+
+                    <div class="input-group">
+                        <input class="input--style-3" type="password" placeholder="Password " name="password">
+                    </div>
+                    <div class="p-t-10">
+                        <button class="btn btn--pill btn--green" type="submit">Login</button>
+                    </div>
+                    <label>
+                        @*<input type="checkbox" checked="checked" name="remember"> Remember me*@
+                    </label>
+                    <span class="psw" style=" color:white;"> <a style=" color: white;" href="#">Forgot  password?</a></span>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
